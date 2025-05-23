@@ -1,4 +1,4 @@
-# 普通用户数字隐私保护指南（中国环境适配）  
+# 普通用户数字隐私保护指南（⏰适配）  
 A Practical Guide to Digital Privacy for Everyday Users (China-Oriented)
 
 
