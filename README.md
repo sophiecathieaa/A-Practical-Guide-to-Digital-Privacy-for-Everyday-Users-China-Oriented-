@@ -106,7 +106,7 @@ A Practical Guide to Digital Privacy for Everyday Users (China-Oriented)
 - 建议：
   - 禁用通讯录同步
   - 不在微信、QQ中传输敏感文件或照片
-  - 避免语音消息、视频通话等容易被分析的通信方式
+
 
 ---
 
@@ -163,7 +163,7 @@ A Practical Guide to Digital Privacy for Everyday Users (China-Oriented)
 
 ## 法律声明
 
-本指南仅供个人信息安全学习和自我防护参考使用。请依据您所在地的法律法规合理合规地使用本文所提到的工具与方法，作者不对读者的具体使用行为承担法律责任。
+本指南仅供个人信息安全学习和自我防护参考使用。
 
 ---
 
