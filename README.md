@@ -152,8 +152,6 @@ A Practical Guide to Digital Privacy for Everyday Users (China-Oriented)
 
 ## 日常行为建议
 
-- 所有社交平台不展示真实姓名、位置、身份证件、财务信息
-- 不在朋友圈、微博发布实时位置信息或外出行程
 - 所有敏感账号注册使用伪名、匿名邮箱、临时手机号
 - 所有账户、文件、通信保持“用途隔离”原则，不交叉使用
 
