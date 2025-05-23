@@ -16,7 +16,7 @@ A Practical Guide to Digital Privacy for Everyday Users (China-Oriented)
 
 ### 备用机建议（用于隐私通信与匿名注册,与主力机完全隔离！）
 
-- 推荐使用外版 iOS（港版/日版/韩版
+- 推荐使用外版 iOS（日版/韩版）
 - 专用于安装和使用 WhatsApp、Telegram、X（前 Twitter）等通信工具
 - 禁止登录主力机使用过的任何账户
 - 使用 Ultra Mobile 等不记名实体卡或匿名 eSIM
